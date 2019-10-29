@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">T1OperacionesGOL</string>
+    <string name="operaciones">Operaciones:</string>
+    <string name="suma">1.- Suma.</string>
+    <string name="resta">2.- Resta.</string>
+    <string name="division">3.- Multiplicación.</string>
+    <string name="multiplicacion">4.- División.</string>
+    <string name="opcion">Ingrese la opción.</string>
+    <string name="envia">Enviar</string>
+    <string name="num1">Ingrese numero 1</string>
+    <string name="num2">Ingresa numero 2</string>
+    <string name="sumar">Sumar</string>
+    <string name="simboloSuma">+</string>
+    <string name="simboloResta">-</string>
+    <string name="resultadoSuma">Resultado:</string>
+    <string name="nombre">ORTEGA LOPEZ GUSTAVO.</string>
+    <string name="IngresaOpcion">Ingresa opcion.</string>
+    <string name="restar">Restar</string>
+    <string name="signomulti">X</string>
+    <string name="signodivi">/</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="dividir">Dividir</string>
+    <string name="regresa">Regresar</string>
+    <string name="edomex">TODO</string>
+    <string name="teso">TODO</string>
+    <string name="grupo">GRUPO 7S11.</string>
+    <string name="materia">INTRODUCCIÓN A DISPOSITIVOS MÓVILES.</string>
+</resources>
